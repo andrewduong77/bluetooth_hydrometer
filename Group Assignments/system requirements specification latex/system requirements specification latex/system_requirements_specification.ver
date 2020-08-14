@@ -10,20 +10,32 @@
 0.2
  & 08.12.2020
  & \listset {GB}
- & complete product concept and description\\\hline 
+ & complete product concept\\\hline 
 0.3
  & 08.12.2020
- & \listset {RB}
- & complete performance and safety requirements\\\hline 
+ & \listset {GB}
+ & complete product description\\\hline 
 0.4
+ & 08.12.2020
+ & \listset {RB}
+ & complete performance requirements\\\hline 
+0.5
+ & 08.12.2020
+ & \listset {RB}
+ & complete safety requirements\\\hline 
+0.6
  & 08.13.2020
  & \listset {RT}
- & complete customer and packaging requirements\\\hline 
-0.5
+ & complete customer requirements\\\hline 
+0.7
+ & 08.13.2020
+ & \listset {RT}
+ & complete packaging requirements\\\hline 
+0.8
  & 08.13.2020
  & \listset {AD}
  & complete maintenance requirements\\\hline 
-0.6
+0.9
  & 08.13.2020
  & \listset {AD}
  & convert srs from google docs to tex\\\hline 

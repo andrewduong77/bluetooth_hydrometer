@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.8)  13 AUG 2020 20:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.8)  13 AUG 2020 22:32
 entering extended mode
 **./system_requirements_specification.tex
 (system_requirements_specification.tex
@@ -644,7 +644,7 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 
  (system_requirements_specification.ver)
 (system_requirements_specification.ver) (system_requirements_specification.ver
-Underfull \vbox (badness 10000) detected at line 34
+Underfull \vbox (badness 10000) detected at line 46
  []
 
 ) [2] (system_requirements_specification.toc
@@ -781,28 +781,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 17--21
 
  []
 
-) [14] (tex/other_requirements.tex [15]) [16] (tex/future_items.tex) [17]
+) [14] (tex/other_requirements.tex [15]) [16]
 No file system_requirements_specification.bbl.
 
 AED: lastpage setting LastPage
 (system_requirements_specification.aux) ) 
 Here is how much of TeX's memory you used:
- 6573 strings out of 481225
- 93157 string characters out of 2915906
- 339039 words of memory out of 3000000
- 21921 multiletter control sequences out of 15000+200000
+ 6569 strings out of 481225
+ 92927 string characters out of 2915906
+ 342039 words of memory out of 3000000
+ 21920 multiletter control sequences out of 15000+200000
  592734 words of font info for 89 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,12n,45p,818b,367s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,11n,45p,588b,305s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvi
 ps/ly1/texnansi.enc}<C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchb8
 a.pfb><C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Prog
 ram Files/MiKTeX/fonts/type1/mathdesign/mdbch/md-chr7y.pfb><C:/Program Files/Mi
 KTeX/fonts/type1/mathdesign/mdbch/md-chr8t.pfb>
-Output written on system_requirements_specification.pdf (17 pages, 381601 bytes
+Output written on system_requirements_specification.pdf (16 pages, 379843 bytes
 ).
 PDF statistics:
- 82 PDF objects out of 1000 (max. 8388607)
+ 79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
