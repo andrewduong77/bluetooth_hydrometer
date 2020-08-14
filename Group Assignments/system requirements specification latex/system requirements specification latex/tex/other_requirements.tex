@@ -1,13 +1,35 @@
-Include a header paragraph specific to your product here. In this section specify anything else that is required for the product to be deemed complete. Include requirements related to customer setup and configuration if not specified in a previous requirement. Add any known requirements related to product architecture/design, such as modularity, extensibility (for future enhancements), or adaptation for a specific programming language. Consider requirements such as portability of your source code to various platforms (Windows, Linux, Unix Mac OS, etc.).
+This section details additional requirements that vary in categorization.
 
-\subsection{Requirement Name}
+\subsection{Operating System Compatibility}
 \subsubsection{Description}
-Detailed requirement description...
+The bluetooth hydrometer software will be developed on Linux, Windows 10, and MacOS by different group members. The project will be written with the end user using Linux in mind. Android is required to use the mobile control application.
 \subsubsection{Source}
-Source
+Each member has a different OS he/she prefers to work on, but Linux will be used for ease of collaboration. iOS is a less modular and less forgiving OS to develop for.
 \subsubsection{Constraints}
-Detailed description of applicable constraints...
+As each operating system may have slight variations in how programs are run or deals with external hardware, there may need additional collaboration and communication among team members to continue development.
 \subsubsection{Standards}
-List of applicable standards
+Not applicable.
 \subsubsection{Priority}
-Priority
+As it isn't known yet if the device, application, and server would work the same in other operating systems with no additional development needed, this requirement is of average or below average importance.
+\subsection{Product Shell}
+\subsubsection{Description}
+The Arduino board and components will be encased in a capsule to have it float in a brew liquid. Other than the shell, there will be no other covering or protection of the device.
+\subsubsection{Source}
+This is the simplest method for allowing the device to float without superfluous features that may interfere with tilt readings.
+\subsubsection{Constraints}
+The capsule must hold the device without having the Arduino move inside. It must also seal completely tight so that no liquid reaches the Arduino or components.
+\subsubsection{Standards}
+Not applicable.
+\subsubsection{Priority}
+Critical to having the device in brew at all.
+\subsection{Languages \& Additional Software}
+\subsubsection{Description}
+The bluetooth hydrometer software will be developed on Linux, Windows 10, and MacOS by different group members. Primarily, the project will be written in C, with possible additional code written in SQL should a database be required with the web server. Github will be used for remote sharing.
+\subsubsection{Source}
+Android development and Arduino development are both in C.
+\subsubsection{Constraints}
+Each team member must be able to adequately write, read, and understand C and each aspect of the project, as all software components work in tandem for full functionality. 
+\subsubsection{Standards}
+Not applicable.
+\subsubsection{Priority}
+As conversion to different languages via modules is possible but comes with potential for multiple issues and bugs, this requirement is of above average importance.

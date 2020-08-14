@@ -1,13 +1,35 @@
-Include a header paragraph specific to your product here. Performance requirements address items such as: how fast specific critical operations must complete; how long it takes to start/stop activities; how long the battery must last; maximum time it must take to set up; etc.
+This section outlines performance-related requirements. The bluetooth hydrometer relies heavily on communication between the user's mobile application control, reliability of the battery module, and optimization of communication between the application and module.
 
-\subsection{Requirement Name}
+\subsection{Battery Usage}
 \subsubsection{Description}
-Detailed requirement description...
+The battery must be able to be kept on for a total of 2 months minimum. When turned off and the bluetooth module is off, no battery power must be consumed.
 \subsubsection{Source}
-Source
+This is a bare necessity requirement for operation, as the hydrometer must be able to stay on for a long enough total time to last for the duration of short checks along the period of a brew.
 \subsubsection{Constraints}
-Detailed description of applicable constraints...
+The 9V battery module is a set 1,200mAh capacity, so the load must be small enough to sustain power for the required length of time.
 \subsubsection{Standards}
-List of applicable standards
+Not applicable.
 \subsubsection{Priority}
-Priority
+This requirement is important for having the use load remain low, but not critical as the hydrometer is a device that does not require much power for basic operation and will already last a long enough time for several checks.
+\subsection{Speed Of Setup}
+\subsubsection{Description}
+Turning the module on will take no longer than 60 seconds to set up with the mobile application. By pressing a button in the application for turning on the hydrometer, a signal should be sent to the web server to indicate power and data to start to be read in. This is excluding the time to assemble the hydrometer and place it in the brew container.
+\subsubsection{Source}
+This is a group requirement for the end user. Having the hydrometer respond to the control application in a reasonable amount of time is essential to having the user experience be quick. 
+\subsubsection{Constraints}
+The 9V battery module is a set 1,200mAh capacity, so the load must be small enough to sustain power for the required length of time.
+\subsubsection{Standards}
+Not applicable.
+\subsubsection{Priority}
+This is critical to using the hydrometer, as taking longer than 60 seconds to just turn on the device would become a burden to the user for a time-sensitive project like brewing.
+\subsection{Accuracy Of Results}
+\subsubsection{Description}
+Reading the specific gravity will return a calculated sugar level result to the user that is correct with less than a 5\% error. Multiple readings will be continuously sent to the server, where all the data will be processed to return a specific gravity answer to the user through the mobile application.
+\subsubsection{Source}
+This is a project requirement, as the whole point of the device is to give a reading of one measurement, the sugar level.
+\subsubsection{Constraints}
+To measure any tilt, a baseline angle of tilt must be noted as a neutral starting position. The code will include an initial reading of tilt at the start of the brew.
+\subsubsection{Standards}
+Not applicable.
+\subsubsection{Priority}
+This is the highest priority requirement of the project, as incorrect readings will hinder the resultant brew and may cause the user to take too long or too short of a time to end the brew.

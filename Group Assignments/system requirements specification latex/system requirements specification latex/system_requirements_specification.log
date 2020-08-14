@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.8)  13 AUG 2020 19:14
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.8)  13 AUG 2020 20:53
 entering extended mode
 **./system_requirements_specification.tex
 (system_requirements_specification.tex
@@ -614,6 +614,11 @@ LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
 (Font)              scaled to size 19.91054pt on input line 66.
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 19.91054pt on input line 66.
+<images/bluetooth_hydro.jpg, id=1, 301.125pt x 301.125pt>
+File: images/bluetooth_hydro.jpg Graphic file (type jpg)
+<use images/bluetooth_hydro.jpg>
+Package pdftex.def Info: images/bluetooth_hydro.jpg  used on input line 72.
+(pdftex.def)             Requested size: 211.38832pt x 211.39716pt.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 11.52008pt on input line 77.
 LaTeX Font Info:    Font shape `T1/mdbch/m/fsc' will be
@@ -622,28 +627,182 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 11.52008pt on input line 77.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 8.64006pt on input line 78.
+ [1
+
+{C:/Users/Andrew Duong/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images
+/bluetooth_hydro.jpg>]
+\openout3 = `system_requirements_specification.ver'.
+
+LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
+(Font)              scaled to size 13.82408pt on input line 86.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
-(Font)              scaled to size 8.64006pt on input line 78.
+(Font)              scaled to size 13.82408pt on input line 86.
+LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
+(Font)              scaled to size 13.82408pt on input line 86.
+\vh@hstfile=\write4
+\openout4 = `system_requirements_specification.hst'.
+
+ (system_requirements_specification.ver)
+(system_requirements_specification.ver) (system_requirements_specification.ver
+Underfull \vbox (badness 10000) detected at line 34
+ []
+
+) [2] (system_requirements_specification.toc
+LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line
+ 2.
+
+("C:\Program Files\MiKTeX\tex/latex/mathdesign/mdbch\ot1mdbch.fd"
+File: ot1mdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OT1/mdbch.
+)
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 2.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 2.
+LaTeX Font Info:    Font shape `OT1/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 2.
+LaTeX Font Info:    Trying to load font information for OML+mdbch on input line
+ 2.
+
+("C:\Program Files\MiKTeX\tex/latex/mathdesign/mdbch\omlmdbch.fd"
+File: omlmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OML/mdbch.
+)
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 10.51207pt on input line 2.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 7.68005pt on input line 2.
+LaTeX Font Info:    Font shape `OML/mdbch/m/it' will be
+(Font)              scaled to size 5.76004pt on input line 2.
+LaTeX Font Info:    Trying to load font information for OMS+mdbch on input line
+ 2.
+
+("C:\Program Files\MiKTeX\tex/latex/mathdesign/mdbch\omsmdbch.fd"
+File: omsmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMS/mdbch.
+)
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 2.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 2.
+LaTeX Font Info:    Font shape `OMS/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 2.
+LaTeX Font Info:    Trying to load font information for OMX+mdbch on input line
+ 2.
+
+("C:\Program Files\MiKTeX\tex/latex/mathdesign/mdbch\omxmdbch.fd"
+File: omxmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for OMX/mdbch.
+)
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 2.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 2.
+LaTeX Font Info:    Font shape `OMX/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 2.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 2.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 2.
+LaTeX Font Info:    Font shape `OML/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 2.
+LaTeX Font Info:    Trying to load font information for MDA+mdbch on input line
+ 2.
+
+("C:\Program Files\MiKTeX\tex/latex/mathdesign/mdbch\mdamdbch.fd"
+File: mdamdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDA/mdbch.
+)
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 2.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 2.
+LaTeX Font Info:    Font shape `MDA/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 2.
+LaTeX Font Info:    Trying to load font information for MDB+mdbch on input line
+ 2.
+
+("C:\Program Files\MiKTeX\tex/latex/mathdesign/mdbch\mdbmdbch.fd"
+File: mdbmdbch.fd 2013/08/29 Fontinst v1.933 font definitions for MDB/mdbch.
+)
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 10.51207pt on input line 2.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 7.68005pt on input line 2.
+LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
+(Font)              scaled to size 5.76004pt on input line 2.
+)
+\tf@toc=\write5
+\openout5 = `system_requirements_specification.toc'.
+
+ [3]
+(system_requirements_specification.lof)
+\tf@lof=\write6
+\openout6 = `system_requirements_specification.lof'.
+
+ [4] (tex/product_concept.tex
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 11.52008pt on input line 3.
+<images/arduino_nano_v3_schematic.png, id=17, 372.64218pt x 203.25937pt>
+File: images/arduino_nano_v3_schematic.png Graphic file (type png)
+<use images/arduino_nano_v3_schematic.png>
+Package pdftex.def Info: images/arduino_nano_v3_schematic.png  used on input li
+ne 10.
+(pdftex.def)             Requested size: 281.85587pt x 153.74367pt.
+) [5 <./images/arduino_nano_v3_schematic.png>] (tex/product_description.tex
+<images/arduino_nano_33.png, id=23, 341.02406pt x 147.55125pt>
+File: images/arduino_nano_33.png Graphic file (type png)
+<use images/arduino_nano_33.png>
+Package pdftex.def Info: images/arduino_nano_33.png  used on input line 5.
+(pdftex.def)             Requested size: 281.85587pt x 121.95866pt.
+<images/temperature_sensor.png, id=24, 217.5628pt x 191.9672pt>
+File: images/temperature_sensor.png Graphic file (type png)
+<use images/temperature_sensor.png>
+Package pdftex.def Info: images/temperature_sensor.png  used on input line 10.
+(pdftex.def)             Requested size: 281.85587pt x 248.7313pt.
+ [6 <./images/arduino_nano_33.png> <./images/temperature_sensor.png>]) [7]
+(tex/customer_requirements.tex
+LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
+(Font)              scaled to size 10.51207pt on input line 4.
+ [8]) [9] (tex/packaging_requirements.tex)
+[10] (tex/performance_requirements.tex [11]) [12] (tex/safety_requirements.tex)
+[13] (tex/maintenance_support_requirements.tex
+Underfull \hbox (badness 10000) in paragraph at lines 4--14
+
+ []
 
 
-LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 78.
+Underfull \hbox (badness 10000) in paragraph at lines 4--14
 
-! I can't write on file `system_requirements_specification.pdf'.
-Please type another file name for output
-! Emergency stop.
-<to be read again> 
-                   \endgroup \set@typeset@protect 
-l.78 \newpage
-             
-*** (job aborted, file error in nonstop mode)
+ []
 
- 
+
+Underfull \hbox (badness 10000) in paragraph at lines 4--14
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 17--21
+
+ []
+
+) [14] (tex/other_requirements.tex [15]) [16] (tex/future_items.tex) [17]
+No file system_requirements_specification.bbl.
+
+AED: lastpage setting LastPage
+(system_requirements_specification.aux) ) 
 Here is how much of TeX's memory you used:
- 6337 strings out of 481225
- 85490 string characters out of 2915906
- 332958 words of memory out of 3000000
- 21787 multiletter control sequences out of 15000+200000
- 562160 words of font info for 40 fonts, out of 3000000 for 9000
+ 6573 strings out of 481225
+ 93157 string characters out of 2915906
+ 339039 words of memory out of 3000000
+ 21921 multiletter control sequences out of 15000+200000
+ 592734 words of font info for 89 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,11n,45p,253b,306s stack positions out of 5000i,500n,10000p,200000b,50000s
-!  ==> Fatal error occurred, no output PDF file produced!
+ 43i,12n,45p,818b,367s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX/fonts/enc/dvi
+ps/ly1/texnansi.enc}<C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchb8
+a.pfb><C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Prog
+ram Files/MiKTeX/fonts/type1/mathdesign/mdbch/md-chr7y.pfb><C:/Program Files/Mi
+KTeX/fonts/type1/mathdesign/mdbch/md-chr8t.pfb>
+Output written on system_requirements_specification.pdf (17 pages, 381601 bytes
+).
+PDF statistics:
+ 82 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+
