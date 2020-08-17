@@ -1,41 +1,41 @@
-\contentsline {section}{\numberline {1}Vision}{6}%
-\contentsline {section}{\numberline {2}Mission}{6}%
-\contentsline {section}{\numberline {3}Success Criteria}{6}%
-\contentsline {section}{\numberline {4}Background}{7}%
-\contentsline {section}{\numberline {5}Related Work}{7}%
-\contentsline {section}{\numberline {6}System Overview}{7}%
-\contentsline {section}{\numberline {7}Roles \& Responsibilities}{7}%
-\contentsline {section}{\numberline {8}Cost Proposal}{7}%
-\contentsline {subsection}{\numberline {8.1}Preliminary Budget}{7}%
-\contentsline {subsection}{\numberline {8.2}Current \& Pending Support}{7}%
-\contentsline {section}{\numberline {9}Facilities \& Equipment}{8}%
-\contentsline {section}{\numberline {10}Assumptions}{8}%
-\contentsline {section}{\numberline {11}Constraints}{8}%
-\contentsline {section}{\numberline {12}Risks}{9}%
-\contentsline {section}{\numberline {13}Documentation \& Reporting}{9}%
-\contentsline {subsection}{\numberline {13.1}Major Documentation Deliverables}{9}%
-\contentsline {subsubsection}{\numberline {13.1.1}Project Charter}{9}%
-\contentsline {subsubsection}{\numberline {13.1.2}System Requirements Specification}{9}%
-\contentsline {subsubsection}{\numberline {13.1.3}Architectural Design Specification}{9}%
-\contentsline {subsubsection}{\numberline {13.1.4}Detailed Design Specification}{9}%
-\contentsline {subsection}{\numberline {13.2}Recurring Sprint Items}{9}%
-\contentsline {subsubsection}{\numberline {13.2.1}Product Backlog}{10}%
-\contentsline {subsubsection}{\numberline {13.2.2}Sprint Planning}{10}%
-\contentsline {subsubsection}{\numberline {13.2.3}Sprint Goal}{10}%
-\contentsline {subsubsection}{\numberline {13.2.4}Sprint Backlog}{10}%
-\contentsline {subsubsection}{\numberline {13.2.5}Task Breakdown}{10}%
-\contentsline {subsubsection}{\numberline {13.2.6}Sprint Burn Down Charts}{10}%
-\contentsline {subsubsection}{\numberline {13.2.7}Sprint Retrospective}{11}%
-\contentsline {subsubsection}{\numberline {13.2.8}Individual Status Reports}{11}%
-\contentsline {subsubsection}{\numberline {13.2.9}Engineering Notebooks}{11}%
-\contentsline {subsection}{\numberline {13.3}Closeout Materials}{11}%
-\contentsline {subsubsection}{\numberline {13.3.1}System Prototype}{11}%
-\contentsline {subsubsection}{\numberline {13.3.2}Project Poster}{11}%
-\contentsline {subsubsection}{\numberline {13.3.3}Web Page}{11}%
-\contentsline {subsubsection}{\numberline {13.3.4}Demo Video}{11}%
-\contentsline {subsubsection}{\numberline {13.3.5}Source Code}{11}%
-\contentsline {subsubsection}{\numberline {13.3.6}Source Code Documentation}{11}%
-\contentsline {subsubsection}{\numberline {13.3.7}Hardware Schematics}{12}%
-\contentsline {subsubsection}{\numberline {13.3.8}CAD files}{12}%
-\contentsline {subsubsection}{\numberline {13.3.9}Installation Scripts}{12}%
-\contentsline {subsubsection}{\numberline {13.3.10}User Manual}{12}%
+\contentsline {section}{\numberline {1}Vision}{7}%
+\contentsline {section}{\numberline {2}Mission}{7}%
+\contentsline {section}{\numberline {3}Success Criteria}{7}%
+\contentsline {section}{\numberline {4}Background}{8}%
+\contentsline {section}{\numberline {5}Related Work}{8}%
+\contentsline {section}{\numberline {6}System Overview}{8}%
+\contentsline {section}{\numberline {7}Roles \& Responsibilities}{8}%
+\contentsline {section}{\numberline {8}Cost Proposal}{8}%
+\contentsline {subsection}{\numberline {8.1}Preliminary Budget}{8}%
+\contentsline {subsection}{\numberline {8.2}Current \& Pending Support}{8}%
+\contentsline {section}{\numberline {9}Facilities \& Equipment}{9}%
+\contentsline {section}{\numberline {10}Assumptions}{9}%
+\contentsline {section}{\numberline {11}Constraints}{9}%
+\contentsline {section}{\numberline {12}Risks}{10}%
+\contentsline {section}{\numberline {13}Documentation \& Reporting}{10}%
+\contentsline {subsection}{\numberline {13.1}Major Documentation Deliverables}{10}%
+\contentsline {subsubsection}{\numberline {13.1.1}Project Charter}{10}%
+\contentsline {subsubsection}{\numberline {13.1.2}System Requirements Specification}{10}%
+\contentsline {subsubsection}{\numberline {13.1.3}Architectural Design Specification}{10}%
+\contentsline {subsubsection}{\numberline {13.1.4}Detailed Design Specification}{10}%
+\contentsline {subsection}{\numberline {13.2}Recurring Sprint Items}{10}%
+\contentsline {subsubsection}{\numberline {13.2.1}Product Backlog}{11}%
+\contentsline {subsubsection}{\numberline {13.2.2}Sprint Planning}{11}%
+\contentsline {subsubsection}{\numberline {13.2.3}Sprint Goal}{11}%
+\contentsline {subsubsection}{\numberline {13.2.4}Sprint Backlog}{11}%
+\contentsline {subsubsection}{\numberline {13.2.5}Task Breakdown}{11}%
+\contentsline {subsubsection}{\numberline {13.2.6}Sprint Burn Down Charts}{11}%
+\contentsline {subsubsection}{\numberline {13.2.7}Sprint Retrospective}{12}%
+\contentsline {subsubsection}{\numberline {13.2.8}Individual Status Reports}{12}%
+\contentsline {subsubsection}{\numberline {13.2.9}Engineering Notebooks}{12}%
+\contentsline {subsection}{\numberline {13.3}Closeout Materials}{12}%
+\contentsline {subsubsection}{\numberline {13.3.1}System Prototype}{12}%
+\contentsline {subsubsection}{\numberline {13.3.2}Project Poster}{12}%
+\contentsline {subsubsection}{\numberline {13.3.3}Web Page}{12}%
+\contentsline {subsubsection}{\numberline {13.3.4}Demo Video}{12}%
+\contentsline {subsubsection}{\numberline {13.3.5}Source Code}{12}%
+\contentsline {subsubsection}{\numberline {13.3.6}Source Code Documentation}{12}%
+\contentsline {subsubsection}{\numberline {13.3.7}Hardware Schematics}{13}%
+\contentsline {subsubsection}{\numberline {13.3.8}CAD files}{13}%
+\contentsline {subsubsection}{\numberline {13.3.9}Installation Scripts}{13}%
+\contentsline {subsubsection}{\numberline {13.3.10}User Manual}{13}%
