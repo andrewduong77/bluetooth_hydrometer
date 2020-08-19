@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.8)  16 AUG 2020 20:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.8)  19 AUG 2020 00:00
 entering extended mode
 **./architectural_design_specification.tex
 (architectural_design_specification.tex
@@ -663,7 +663,7 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
  (architectural_design_specification.ver)
 (architectural_design_specification.ver)
 (architectural_design_specification.ver
-Underfull \vbox (badness 10000) detected at line 10
+Underfull \vbox (badness 10000) detected at line 22
  []
 
 ) [2] (architectural_design_specification.toc
@@ -759,62 +759,109 @@ LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
 \tf@lot=\write7
 \openout7 = `architectural_design_specification.lot'.
 
- [4] (tex/introduction.tex) [5]
-(tex/system_overview.tex
-<images/layers.png, id=20, 518.6878pt x 257.46187pt>
-File: images/layers.png Graphic file (type png)
-<use images/layers.png>
-Package pdftex.def Info: images/layers.png  used on input line 5.
-(pdftex.def)             Requested size: 281.85587pt x 139.91125pt.
+ [4] (tex/introduction.tex)
+Underfull \hbox (badness 10000) in paragraph at lines 1--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--108
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1--108
+
+ []
+
+[5] (tex/system_overview.tex
+<images/bluetooth_hydrometer_layers.png, id=21, 648.62325pt x 258.36525pt>
+File: images/bluetooth_hydrometer_layers.png Graphic file (type png)
+<use images/bluetooth_hydrometer_layers.png>
+Package pdftex.def Info: images/bluetooth_hydrometer_layers.png  used on input 
+line 5.
+(pdftex.def)             Requested size: 281.85587pt x 112.27364pt.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 11.52008pt on input line 9.
-) [6 <./images/layers.png>] (tex/data_flow.tex
-<images/data_flow.png, id=24, 514.17094pt x 554.07pt>
-File: images/data_flow.png Graphic file (type png)
-<use images/data_flow.png>
-Package pdftex.def Info: images/data_flow.png  used on input line 5.
-(pdftex.def)             Requested size: 469.75502pt x 506.21664pt.
-)
-[7 <./images/data_flow.png>] (tex/x_layer_subsystems.tex
-<images/subsystem.png, id=30, 237.13594pt x 242.40562pt>
-File: images/subsystem.png Graphic file (type png)
-<use images/subsystem.png>
-Package pdftex.def Info: images/subsystem.png  used on input line 8.
-(pdftex.def)             Requested size: 281.85587pt x 288.12965pt.
+) [6 <./images/bluetooth_hydrometer_layers.png>]
+(tex/data_flow.tex
+<images/data flow.png, id=28, 393.26926pt x 388.45125pt>
+File: images/data flow.png Graphic file (type png)
+<use images/data flow.png>
+Package pdftex.def Info: images/data flow.png  used on input line 5.
+(pdftex.def)             Requested size: 469.75502pt x 464.01718pt.
+) [7 <./images/data flow.png>] (tex/x_layer_subsystems.tex
+<images/Sensors subsystems.png, id=34, 211.992pt x 293.898pt>
+File: images/Sensors subsystems.png Graphic file (type png)
+<use images/Sensors subsystems.png>
+Package pdftex.def Info: images/Sensors subsystems.png  used on input line 5.
+(pdftex.def)             Requested size: 281.85587pt x 390.7942pt.
 LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
-(Font)              scaled to size 10.51207pt on input line 12.
- [8 <./images/subsystem.png>]) [9] (tex/y_layer_subsystems.tex
-File: images/subsystem.png Graphic file (type png)
-<use images/subsystem.png>
-Package pdftex.def Info: images/subsystem.png  used on input line 8.
-(pdftex.def)             Requested size: 281.85587pt x 288.12965pt.
- [10]) [11] (tex/z_layer_subsystems.tex
-File: images/subsystem.png Graphic file (type png)
-<use images/subsystem.png>
-Package pdftex.def Info: images/subsystem.png  used on input line 8.
-(pdftex.def)             Requested size: 281.85587pt x 288.12965pt.
+(Font)              scaled to size 10.51207pt on input line 9.
 
-[12]) [13]
+Overfull \hbox (41.87726pt too wide) in paragraph at lines 13--14
+\T1/mdbch/m/n/10.95 It stores tem-per-a-ture in the form of elec-tronic sig-nal
+ and changes when-ever the tem-per-a-ture changes.Temperature
+ []
+
+[8 <./images/Sensors subsystems.png>]
+File: images/Sensors subsystems.png Graphic file (type png)
+<use images/Sensors subsystems.png>
+Package pdftex.def Info: images/Sensors subsystems.png  used on input line 33.
+(pdftex.def)             Requested size: 281.85587pt x 390.7942pt.
+ [9]) [10] (tex/y_layer_subsystems.tex
+<images/Controller subsystems.png, id=45, 364.9635pt x 186.6975pt>
+File: images/Controller subsystems.png Graphic file (type png)
+<use images/Controller subsystems.png>
+Package pdftex.def Info: images/Controller subsystems.png  used on input line 5
+.
+(pdftex.def)             Requested size: 281.85587pt x 144.19337pt.
+File: images/Controller subsystems.png Graphic file (type png)
+<use images/Controller subsystems.png>
+Package pdftex.def Info: images/Controller subsystems.png  used on input line 3
+3.
+(pdftex.def)             Requested size: 281.85587pt x 144.19337pt.
+
+[11 <./images/Controller subsystems.png>]) [12] (tex/z_layer_subsystems.tex
+<images/mobile_phone_subsystem.png, id=53, 309.40594pt x 243.15843pt>
+File: images/mobile_phone_subsystem.png Graphic file (type png)
+<use images/mobile_phone_subsystem.png>
+Package pdftex.def Info: images/mobile_phone_subsystem.png  used on input line 
+8.
+(pdftex.def)             Requested size: 281.85587pt x 221.52681pt.
+<images/6.1.3_subsystem_table.png, id=54, 473.51906pt x 153.57375pt>
+File: images/6.1.3_subsystem_table.png Graphic file (type png)
+<use images/6.1.3_subsystem_table.png>
+Package pdftex.def Info: images/6.1.3_subsystem_table.png  used on input line 2
+3.
+(pdftex.def)             Requested size: 469.75502pt x 152.35716pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[13 <./images/mobile_phone_subsystem.png>]) [14 <./images/6.1.3_subsystem_table
+.png>]
 No file architectural_design_specification.bbl.
 
 AED: lastpage setting LastPage
 (architectural_design_specification.aux) ) 
 Here is how much of TeX's memory you used:
- 6666 strings out of 481225
- 92934 string characters out of 2915906
- 337309 words of memory out of 3000000
- 22017 multiletter control sequences out of 15000+200000
+ 6693 strings out of 481225
+ 94568 string characters out of 2915906
+ 338318 words of memory out of 3000000
+ 22038 multiletter control sequences out of 15000+200000
  591752 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,16n,45p,799b,339s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,16n,45p,635b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dv
 ips/ly1/texnansi.enc}<C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchb
 8a.pfb><C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Pro
-gram Files/MiKTeX/fonts/type1/mathdesign/mdbch/md-chr8t.pfb>
-Output written on architectural_design_specification.pdf (13 pages, 92463 bytes
-).
+gram Files/MiKTeX/fonts/type1/mathdesign/mdbch/md-chb8t.pfb><C:/Program Files/M
+iKTeX/fonts/type1/mathdesign/mdbch/md-chr8t.pfb>
+Output written on architectural_design_specification.pdf (14 pages, 198755 byte
+s).
 PDF statistics:
- 62 PDF objects out of 1000 (max. 8388607)
+ 79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 

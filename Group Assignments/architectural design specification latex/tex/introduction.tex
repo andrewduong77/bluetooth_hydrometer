@@ -1,1 +1,7 @@
-Your introduction should describe your product concept in sufficient detail that the architectural design will be easy to follow. The introduction may include information used in the first sections of your SRS for this purpose. At a minimum, ensure that the product concept, scope and key requirements are described.
+Fermentation is an important process of brewing beer. Key part of brewing beer with a certain taste and density requires fermenting beer at the right temperature for a certain period of time. For home-brewers, it can be tedious to keep track of temperature and density of beer during the fermentation process.
+\\\\
+"Bluetooth Hydrometer" is a device designed to help home-brewers keep track of temperature and density of beer during the fermentation process. It floats on the beer inside the fermenting vessel while sending data to a smartphone via Bluetooth.
+\\\\
+Bluetooth Hydrometer consists Arduino-nano with 9-axis inertial measurement unit (IMU) and temperature sensor. Temperature sensor reads temperature while IMU reads relative position when the device is floating.  Arduino gets analog input from sensors and process data to get actual temperature and specific gravity of beer. Specific gravity is obtained from relative position of hydrometer inside the fermentation vessel. Once the process is done, data are sent to a smartphone via Bluetooth. 
+\\\\
+Temperature and density data are stored in a database for future reference and analysis. Mobile app provides visual interface to home-brewers at real time providing current temperature and specific gravity of beer. 

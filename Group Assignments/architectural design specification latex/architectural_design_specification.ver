@@ -7,4 +7,16 @@
  & 08.15.2020
  & \listset {AD}
  & document creation\\\hline 
+0.2
+ & 08.18.2020
+ & \listset {GG}
+ & complete introduction and system overview\\\hline 
+0.3
+ & 08.18.2020
+ & \listset {RT,RB}
+ & complete system layers and subsystems\\\hline 
+0.4
+ & 08.18.2020
+ & \listset {AD}
+ & combined document together and convert to TeX\\\hline 
 \end {longtable}

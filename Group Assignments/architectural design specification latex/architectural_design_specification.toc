@@ -1,27 +1,33 @@
 \contentsline {section}{\numberline {1}Introduction}{5}%
 \contentsline {section}{\numberline {2}System Overview}{6}%
-\contentsline {subsection}{\numberline {2.1}Layer X Description}{6}%
-\contentsline {subsection}{\numberline {2.2}Layer Y Description}{6}%
-\contentsline {subsection}{\numberline {2.3}Layer Z Description}{6}%
+\contentsline {subsection}{\numberline {2.1}Sensors}{6}%
+\contentsline {subsection}{\numberline {2.2}Controllers}{6}%
+\contentsline {subsection}{\numberline {2.3}UI/UX}{6}%
 \contentsline {section}{\numberline {3}Subsystem Definitions \& Data Flow}{7}%
-\contentsline {section}{\numberline {4}X Layer Subsystems}{8}%
-\contentsline {subsection}{\numberline {4.1}Subsystem 1}{8}%
+\contentsline {section}{\numberline {4}Sensors}{8}%
+\contentsline {subsection}{\numberline {4.1}Temperature Sensor}{8}%
 \contentsline {subsubsection}{\numberline {4.1.1}Assumptions}{8}%
 \contentsline {subsubsection}{\numberline {4.1.2}Responsibilities}{8}%
 \contentsline {subsubsection}{\numberline {4.1.3}Subsystem Interfaces}{8}%
-\contentsline {subsection}{\numberline {4.2}Subsystem 2}{9}%
-\contentsline {subsection}{\numberline {4.3}Subsystem 3}{9}%
-\contentsline {section}{\numberline {5}Y Layer Subsystems}{10}%
-\contentsline {subsection}{\numberline {5.1}Subsystem 1}{10}%
-\contentsline {subsubsection}{\numberline {5.1.1}Assumptions}{10}%
-\contentsline {subsubsection}{\numberline {5.1.2}Responsibilities}{10}%
-\contentsline {subsubsection}{\numberline {5.1.3}Subsystem Interfaces}{10}%
-\contentsline {subsection}{\numberline {5.2}Subsystem 2}{11}%
-\contentsline {subsection}{\numberline {5.3}Subsystem 3}{11}%
-\contentsline {section}{\numberline {6}Z Layer Subsystems}{12}%
-\contentsline {subsection}{\numberline {6.1}Subsystem 1}{12}%
-\contentsline {subsubsection}{\numberline {6.1.1}Assumptions}{12}%
-\contentsline {subsubsection}{\numberline {6.1.2}Responsibilities}{12}%
-\contentsline {subsubsection}{\numberline {6.1.3}Subsystem Interfaces}{12}%
-\contentsline {subsection}{\numberline {6.2}Subsystem 2}{13}%
-\contentsline {subsection}{\numberline {6.3}Subsystem 3}{13}%
+\contentsline {subsection}{\numberline {4.2}IMU Sensor}{9}%
+\contentsline {subsubsection}{\numberline {4.2.1}Assumptions}{9}%
+\contentsline {subsubsection}{\numberline {4.2.2}Responsibilities}{9}%
+\contentsline {subsubsection}{\numberline {4.2.3}Subsystem Interfaces}{10}%
+\contentsline {section}{\numberline {5}Controller Subsystems}{11}%
+\contentsline {subsection}{\numberline {5.1}Arduino Nano 33 BLE}{11}%
+\contentsline {subsubsection}{\numberline {5.1.1}Assumptions}{11}%
+\contentsline {subsubsection}{\numberline {5.1.2}Responsibilities}{11}%
+\contentsline {subsubsection}{\numberline {5.1.3}Subsystem Interfaces}{11}%
+\contentsline {subsection}{\numberline {5.2}Processing Unit}{11}%
+\contentsline {subsubsection}{\numberline {5.2.1}Assumptions}{12}%
+\contentsline {subsubsection}{\numberline {5.2.2}Responsibilities}{12}%
+\contentsline {subsubsection}{\numberline {5.2.3}Processing Unit Interface}{12}%
+\contentsline {section}{\numberline {6}Phone Layer Subsystems}{13}%
+\contentsline {subsection}{\numberline {6.1}Control Application}{13}%
+\contentsline {subsubsection}{\numberline {6.1.1}Assumptions}{13}%
+\contentsline {subsubsection}{\numberline {6.1.2}Responsibilities}{13}%
+\contentsline {subsubsection}{\numberline {6.1.3}Subsystem Interfaces}{13}%
+\contentsline {subsection}{\numberline {6.2}Database subsystem}{13}%
+\contentsline {subsubsection}{\numberline {6.2.1}Assumptions}{14}%
+\contentsline {subsubsection}{\numberline {6.2.2}Responsibilities}{14}%
+\contentsline {subsubsection}{\numberline {6.2.3}Subsystem Interfaces}{14}%
