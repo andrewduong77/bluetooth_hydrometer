@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.8)  18 SEP 2020 09:18
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.8)  18 SEP 2020 16:36
 entering extended mode
 **./detailed_design_specification.tex
 (detailed_design_specification.tex
@@ -794,15 +794,15 @@ AED: lastpage setting LastPage
 Here is how much of TeX's memory you used:
  6657 strings out of 481225
  93093 string characters out of 2915906
- 339291 words of memory out of 3000000
+ 338291 words of memory out of 3000000
  22008 multiletter control sequences out of 15000+200000
  591752 words of font info for 86 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 43i,11n,45p,566b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,11n,45p,566b,293s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX/fonts/enc/dvips/l
 y1/texnansi.enc}<C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchb8a.pf
 b><C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb>
-Output written on detailed_design_specification.pdf (12 pages, 85184 bytes).
+Output written on detailed_design_specification.pdf (12 pages, 84965 bytes).
 PDF statistics:
  53 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

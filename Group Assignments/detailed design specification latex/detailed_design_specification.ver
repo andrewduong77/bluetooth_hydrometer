@@ -4,23 +4,23 @@
  & \textbf {\vhauthorname }
  & \textbf {\vhchangename }\\\hline 
 0.1
- & 1.01.2016
- & \listset {GH}
+ & 09.18.2020
+ & \listset {AD}
  & document creation\\\hline 
 0.2
- & 1.05.2016
- & \listset {AT|GH}
+ & 
+ & \listset {}
  & complete draft\\\hline 
 0.3
- & 1.12.2016
- & \listset {AT|GH}
+ & 
+ & \listset {}
  & release candidate 1\\\hline 
 1.0
- & 1.20.2016
- & \listset {AT|GH|CB}
+ & 
+ & \listset {}
  & official release\\\hline 
 1.1
- & 1.31.2016
- & \listset {AL}
+ & 
+ & \listset {}
  & added design review requests\\\hline 
 \end {longtable}
