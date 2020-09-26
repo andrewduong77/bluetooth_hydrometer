@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.8)  19 AUG 2020 00:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.7) (preloaded format=pdflatex 2020.8.8)  25 SEP 2020 20:47
 entering extended mode
 **./architectural_design_specification.tex
 (architectural_design_specification.tex
@@ -645,7 +645,13 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 (Font)              scaled to size 11.52008pt on input line 78.
 LaTeX Font Info:    Font shape `T1/mdbch/m/n' will be
 (Font)              scaled to size 8.64006pt on input line 79.
- [1
+LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
+(Font)              scaled to size 8.64006pt on input line 79.
+
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 79.
+
+[1
 
 {C:/Users/Andrew Duong/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <./images
 /bluetooth_hydro.jpg>]
@@ -666,7 +672,11 @@ LaTeX Font Info:    Font shape `T1/mdbch/b/fsc' will be
 Underfull \vbox (badness 10000) detected at line 22
  []
 
-) [2] (architectural_design_specification.toc
+)
+
+LaTeX Warning: Reference `LastPage' on page 2 undefined on input line 93.
+
+[2] (architectural_design_specification.toc
 LaTeX Font Info:    Trying to load font information for OT1+mdbch on input line
  3.
 
@@ -749,8 +759,11 @@ LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
 \tf@toc=\write5
 \openout5 = `architectural_design_specification.toc'.
 
- [3]
-(architectural_design_specification.lof)
+
+
+LaTeX Warning: Reference `LastPage' on page 3 undefined on input line 98.
+
+[3] (architectural_design_specification.lof)
 \tf@lof=\write6
 \openout6 = `architectural_design_specification.lof'.
 
@@ -759,7 +772,11 @@ LaTeX Font Info:    Font shape `MDB/mdbch/m/n' will be
 \tf@lot=\write7
 \openout7 = `architectural_design_specification.lot'.
 
- [4] (tex/introduction.tex)
+
+
+LaTeX Warning: Reference `LastPage' on page 4 undefined on input line 103.
+
+[4] (tex/introduction.tex)
 Underfull \hbox (badness 10000) in paragraph at lines 1--108
 
  []
@@ -773,6 +790,9 @@ Underfull \hbox (badness 10000) in paragraph at lines 1--108
 Underfull \hbox (badness 10000) in paragraph at lines 1--108
 
  []
+
+
+LaTeX Warning: Reference `LastPage' on page 5 undefined on input line 108.
 
 [5] (tex/system_overview.tex
 <images/bluetooth_hydrometer_layers.png, id=21, 648.62325pt x 258.36525pt>
@@ -783,14 +803,21 @@ line 5.
 (pdftex.def)             Requested size: 281.85587pt x 112.27364pt.
 LaTeX Font Info:    Font shape `T1/mdbch/b/n' will be
 (Font)              scaled to size 11.52008pt on input line 9.
-) [6 <./images/bluetooth_hydrometer_layers.png>]
-(tex/data_flow.tex
+)
+
+LaTeX Warning: Reference `LastPage' on page 6 undefined on input line 111.
+
+[6 <./images/bluetooth_hydrometer_layers.png>] (tex/data_flow.tex
 <images/data flow.png, id=28, 393.26926pt x 388.45125pt>
 File: images/data flow.png Graphic file (type png)
 <use images/data flow.png>
 Package pdftex.def Info: images/data flow.png  used on input line 5.
 (pdftex.def)             Requested size: 469.75502pt x 464.01718pt.
-) [7 <./images/data flow.png>] (tex/x_layer_subsystems.tex
+)
+
+LaTeX Warning: Reference `LastPage' on page 7 undefined on input line 114.
+
+[7 <./images/data flow.png>] (tex/x_layer_subsystems.tex
 <images/Sensors subsystems.png, id=34, 211.992pt x 293.898pt>
 File: images/Sensors subsystems.png Graphic file (type png)
 <use images/Sensors subsystems.png>
@@ -804,12 +831,23 @@ Overfull \hbox (41.87726pt too wide) in paragraph at lines 13--14
  and changes when-ever the tem-per-a-ture changes.Temperature
  []
 
+
+LaTeX Warning: Reference `LastPage' on page 8 undefined on input line 27.
+
 [8 <./images/Sensors subsystems.png>]
 File: images/Sensors subsystems.png Graphic file (type png)
 <use images/Sensors subsystems.png>
 Package pdftex.def Info: images/Sensors subsystems.png  used on input line 33.
 (pdftex.def)             Requested size: 281.85587pt x 390.7942pt.
- [9]) [10] (tex/y_layer_subsystems.tex
+
+
+LaTeX Warning: Reference `LastPage' on page 9 undefined on input line 45.
+
+[9])
+
+LaTeX Warning: Reference `LastPage' on page 10 undefined on input line 117.
+
+[10] (tex/y_layer_subsystems.tex
 <images/Controller subsystems.png, id=45, 364.9635pt x 186.6975pt>
 File: images/Controller subsystems.png Graphic file (type png)
 <use images/Controller subsystems.png>
@@ -822,7 +860,14 @@ Package pdftex.def Info: images/Controller subsystems.png  used on input line 3
 3.
 (pdftex.def)             Requested size: 281.85587pt x 144.19337pt.
 
-[11 <./images/Controller subsystems.png>]) [12] (tex/z_layer_subsystems.tex
+
+LaTeX Warning: Reference `LastPage' on page 11 undefined on input line 40.
+
+[11 <./images/Controller subsystems.png>])
+
+LaTeX Warning: Reference `LastPage' on page 12 undefined on input line 120.
+
+[12] (tex/z_layer_subsystems.tex
 <images/mobile_phone_subsystem.png, id=53, 309.40594pt x 243.15843pt>
 File: images/mobile_phone_subsystem.png Graphic file (type png)
 <use images/mobile_phone_subsystem.png>
@@ -839,26 +884,42 @@ Package pdftex.def Info: images/6.1.3_subsystem_table.png  used on input line 2
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[13 <./images/mobile_phone_subsystem.png>]) [14 <./images/6.1.3_subsystem_table
-.png>]
+
+LaTeX Warning: Reference `LastPage' on page 13 undefined on input line 33.
+
+[13 <./images/mobile_phone_subsystem.png>])
+
+LaTeX Warning: Reference `LastPage' on page 14 undefined on input line 123.
+
+[14 <./images/6.1.3_subsystem_table.png>]
 No file architectural_design_specification.bbl.
 
+Package lastpage Warning: Rerun to get the references right on input line 130.
+
+
 AED: lastpage setting LastPage
-(architectural_design_specification.aux) ) 
+(architectural_design_specification.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 6693 strings out of 481225
- 94568 string characters out of 2915906
- 338318 words of memory out of 3000000
- 22038 multiletter control sequences out of 15000+200000
- 591752 words of font info for 86 fonts, out of 3000000 for 9000
+ 6696 strings out of 481225
+ 94598 string characters out of 2915906
+ 338237 words of memory out of 3000000
+ 22039 multiletter control sequences out of 15000+200000
+ 594688 words of font info for 89 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  43i,16n,45p,635b,341s stack positions out of 5000i,500n,10000p,200000b,50000s
-{C:/Program Files/MiKTeX/fonts/enc/dv
-ips/ly1/texnansi.enc}<C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchb
-8a.pfb><C:/Program Files/MiKTeX/fonts/type1/bitstrea/charter/bchr8a.pfb><C:/Pro
-gram Files/MiKTeX/fonts/type1/mathdesign/mdbch/md-chb8t.pfb><C:/Program Files/M
-iKTeX/fonts/type1/mathdesign/mdbch/md-chr8t.pfb>
-Output written on architectural_design_specification.pdf (14 pages, 198755 byte
+{C:/Program Files/MiKTeX/fonts/enc/dvips/ly1/texnansi.enc}<C:/Program Files/M
+iKTeX/fonts/type1/bitstrea/charter/bchb8a.pfb><C:/Program Files/MiKTeX/fonts/ty
+pe1/bitstrea/charter/bchr8a.pfb><C:/Program Files/MiKTeX/fonts/type1/mathdesign
+/mdbch/md-chb8t.pfb><C:/Program Files/MiKTeX/fonts/type1/mathdesign/mdbch/md-ch
+r8t.pfb>
+Output written on architectural_design_specification.pdf (14 pages, 199096 byte
 s).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)

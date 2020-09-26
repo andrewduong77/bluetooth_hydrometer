@@ -60,6 +60,30 @@
 \renewcommand{\abstractname}{}
 \renewcommand{\abstracttextfont}{\color{accentcolor} \small \slshape}	% slanted text
 
+\usepackage{listings}
+\usepackage{color}
+
+\definecolor{dkgreen}{rgb}{0,0.6,0}
+\definecolor{gray}{rgb}{0.5,0.5,0.5}
+\definecolor{mauve}{rgb}{0.58,0,0.82}
+
+\lstset{frame=tb,
+  language=C,
+  aboveskip=3mm,
+  belowskip=3mm,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  numberstyle=\tiny\color{gray},
+  keywordstyle=\color{blue},
+  commentstyle=\color{dkgreen},
+  stringstyle=\color{mauve},
+  breaklines=true,
+  breakatwhitespace=true,
+  tabsize=3
+}
+
 %%% Start of the document
 \begin{document}
 
@@ -86,10 +110,10 @@
 %%% Revision History
 \begin{versionhistory}
   	\vhEntry{0.1}{09.18.2020}{AD}{document creation}
-  	\vhEntry{0.2}{}{}{complete draft}
-  	\vhEntry{0.3}{}{}{release candidate 1}
-  	\vhEntry{1.0}{}{}{official release}
-  	\vhEntry{1.1}{}{}{added design review requests}
+  	\vhEntry{0.2}{09.23.2020}{GG}{complete introduction and system overview}
+  	\vhEntry{0.3}{09.24.2020}{GG}{complete subsystem definitions \& data flow}
+  	\vhEntry{0.4}{09.23.2020}{RB,RT}{complete system layers and subsystems}
+  	\vhEntry{1.0}{09.25.2020}{AD}{combined document together and convert to TeX}
 \end{versionhistory}
 \newpage
 
@@ -109,21 +133,21 @@
 \section{System Overview}
 \input{tex/system_overview.tex}
 \newpage
-%\section{Subsystem Definitions \& Data Flow}
-%\input{tex/data_flow.tex}
+\section{Subsystem Definitions \& Data Flow}
+\input{tex/data_flow.tex}
 \newpage
-\section{X Layer Subsystems}
+\section{Sensors}
 \input{tex/x_layer_subsystems.tex}
 \newpage
-\section{Y Layer Subsystems}
+\section{Controller Subsystems}
 \input{tex/y_layer_subsystems.tex}
 \newpage
-\section{Z Layer Subsystems}
+\section{Phone Layer Subsystems}
 \input{tex/z_layer_subsystems.tex}
 \newpage
-\section{Appendix A}
-\input{tex/appendix_a.tex}
-\newpage
+%\section{Appendix A}
+%\input{tex/appendix_a.tex}
+%\newpage
 
 %%% References
 \bibliographystyle{plain}
