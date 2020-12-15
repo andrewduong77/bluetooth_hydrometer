@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Bluetooth Hydrometer</string>
+    <string name="Connect">Connect</string>
+</resources>
